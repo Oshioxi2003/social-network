@@ -9,10 +9,11 @@ Xin chào, tôi đã tạo một ứng dụng mạng xã hội sử dụng Fireb
 - Firebase Storage
 - Firebase Database
 - Firebase Cloud Messaging
-**
+  
+**Sơ đồ quy trình làm việc của ứng dụng **
 
 
-![Sơ Đồ Quy Trình Hoạt Động Của Ứng Dụng](https://i.ibb.co/myGYyq0/Resim1.png)
+![Sơ Đồ Quy Trình Hoạt Động ](https://i.ibb.co/myGYyq0/Resim1.png)
 
 
 
