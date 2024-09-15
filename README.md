@@ -1,19 +1,18 @@
-# Pengui - Social Media Application
+Pengui - Ứng Dụng Mạng Xã Hội
+Xin chào, tôi đã tạo một ứng dụng mạng xã hội sử dụng Firebase và Android Studio (Java). Tôi tạo ứng dụng này để học tập, nó giúp tôi hiểu cách xây dựng ứng dụng Android và đây là ứng dụng Android đầu tiên của tôi, vì vậy nó chưa được tối ưu hóa và không có bảo mật cơ sở dữ liệu.
 
-Hello i made an social media application using firebase using android studio(java).
-I made the application for learning purposes it made me learn how it is to make android application and its my first android application so its not optimized and dont have database security.
+Tại Sao Chọn Firebase?
+Để xây dựng một ứng dụng mạng xã hội cho di động, bạn cần nhiều dịch vụ như xác thực, thông báo đám mây, cơ sở dữ liệu và lưu trữ đám mây. Trong khi có nhiều tùy chọn cho từng dịch vụ riêng lẻ, khi nghiên cứu, tôi thấy Firebase có tất cả các dịch vụ cần thiết cho việc tạo ứng dụng mạng xã hội.
 
-# Why Firebase?
+Các Tính Năng Tôi Sử Dụng
 
-To make social media application for mobile you need many services such as authentication, cloud messaging, database and cloud storage. While there are so many options for all services individually. While doing a research i found firebase had all of the necessary services for making social media application.
+Firebase Authentication (Xác thực Firebase)
+Firebase Storage (Lưu trữ Firebase)
+Firebase Database (Cơ sở dữ liệu Firebase)
+Firebase Cloud Messaging (Thông báo đám mây Firebase)
+Sơ Đồ Quy Trình Hoạt Động Của Ứng Dụng
 
-**Features That I Use**
-- Firebase Authentication
-- Firebase Storage
-- Firebase Database
-- Firebase Cloud Messaging
 
-**Work Flow Diagram Of The Application**
 
 ![Work Flow Diagram](https://i.ibb.co/myGYyq0/Resim1.png)
 
