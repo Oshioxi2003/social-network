@@ -10,15 +10,15 @@ Firebase Authentication (Xác thực Firebase)
 Firebase Storage (Lưu trữ Firebase)
 Firebase Database (Cơ sở dữ liệu Firebase)
 Firebase Cloud Messaging (Thông báo đám mây Firebase)
-Sơ Đồ Quy Trình Hoạt Động Của Ứng Dụng
 
 
 
-![Work Flow Diagram](https://i.ibb.co/myGYyq0/Resim1.png)
+
+![Sơ Đồ Quy Trình Hoạt Động Của Ứng Dụng](https://i.ibb.co/myGYyq0/Resim1.png)
 
 
 
-Applications all design and themes are made with [Nur Kaplan](https://www.linkedin.com/in/m-nur-kaplan/)
+Thiết kế và chủ đề của ứng dụng đều do Nur Kaplan thực hiện. [Ứng Dụng](https://www.linkedin.com/in/m-nur-kaplan/)
 
 ## Application
 ![Pengui1](https://i.ibb.co/vc603wG/12.png)
