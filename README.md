@@ -17,7 +17,6 @@ Xin chào, tôi đã tạo một ứng dụng mạng xã hội sử dụng Fireb
 
 
 
-Thiết kế và chủ đề của ứng dụng đều do Nur Kaplan thực hiện. [Ứng Dụng](https://www.linkedin.com/in/m-nur-kaplan/)
 
 ## Application
 ![Pengui1](https://i.ibb.co/vc603wG/12.png)
